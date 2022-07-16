@@ -4,7 +4,9 @@
 
 {
 ## spider
-//"spider":"https://gitea.com/83225451/Tvbox/raw/branch/main/0712.jar"
+//"spider":"https://gitea.com/83225451/Tvbox/raw/branch/main/XBiubiuLA2.jar"
+"spider":"https://gitea.com/83225451/Tvbox/raw/branch/main/XBiubiuLA3.jar",
+"spider":"https://gitea.com/83225451/Tvbox/raw/branch/main/XBiubiuLA4.jar",
 
 # 直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9vZC5say9zL01UZGZNalF4TkRRNE5UWmYvbGl2ZS50eHQ="]}]}],
