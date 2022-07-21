@@ -15,7 +15,7 @@
 {"key": "360","name": "360","type": 3,"api": "csp_SP360","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan","name":"🎈快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "csp_BBB" ,"name":"🐞哔哩哔哩1","type": 3,"api": "csp_BBB","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/uriss//MaooXP/bilirch.json"}, 
+{"key": "csp_BBB" ,"name":"🐞哔哩哔哩1","type": 3,"api": "csp_BBB","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://raw.githubusercontents.com/jie20091116/cat/main/TVBOX/MaooXB2/%E5%93%94%E5%93%A9%E6%BC%94%E5%94%B1%E4%BC%9A.json"}, 
 {"key":"csp_BBB" ,"name":"🐞哔哩哔哩2","type": 3,"api": "csp_BBB","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.qiaoji8.com/jar/bili.json"}, 
 {"key": "csp_BBB" ,"name":"🐞哔哩哔哩3","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://gitea.com/Pandora2277/Box/raw/branch/master/sub/Bili.json"}, 
     {
