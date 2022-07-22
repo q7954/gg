@@ -5,7 +5,7 @@
 
 
 # 直播
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zaGFyZS5uaXRlMDcuY29tL2FwaS92My9maWxlL3NvdXJjZS80NjA2L2xpdmUudHh0P3NpZ249V0IyX0gxQ1hjdEZQXzRaTUN0TW1NdDg2QVRIMVlWcDVzbUMxUHNqcTVjcyUzRCUzQTA="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=https://share.nite07.com/api/v3/file/source/8292/zb.txt?sign=s3DU6I7tNDnMKbyzL5gP-2k6SV5D1i7DxSE05r_U2e8%3D%3A0"]}]}],
 
 "sites":[
 {"key":"360","name": "360","type": 3,"api": "csp_SP360","searchable": 1,"quickSearch": 1,"filterable": 1},
