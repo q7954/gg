@@ -1,9 +1,9 @@
-﻿// 配置地址 --> https://gitea.com/suanjin/tv/raw/branch/master/main/0725.json
+﻿// 配置地址 --> 
 
 
 {
 ## spider
-"spider":"https://gitea.com/wangxilin/1/raw/branch/main/6.jar",
+"spider":"https://gitea.com/83225451/Tvbox/raw/branch/main/xxoo805.jar",
 # 直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vc3Vhbmppbi90di9yYXcvYnJhbmNoL21hc3Rlci9tYWluL3R2L2JjLnR4dA=="]}]}],
 
@@ -18,20 +18,10 @@
 {"key":"搜狐(官源)","name":"⚽搜狐(官源)","type":0,"api":"https://www.ddzyz1.com/api.php/provide/vod/from/sohu/at/xml/","searchable":1,"quickSearch":1,"filterable":1,"categories":["动画片","国产剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","武侠片","少儿","奇幻片","其他片","其他剧"]},
 {"key":"csp_SP360","name":"💘360影视(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ygyzy.github.io/api/jar/custom_spider.jar;md5;d63fe3db21b48e04884c2d5303907bd1"},
 {"key":"so","name":"⚽搜gou(解析)","type":0,"api":"http://www.zycaiji.net:7788/api.php/provide/vod/from/sohu/at/xml/","searchable":1,"quickSearch":1,"filterable":0,"categories":["国产剧","港台剧","日韩剧","欧美剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","奇幻片","综艺","动漫","少儿","其他片","其他剧"]},
-
-
 {"key":"csp_Tkys","name":"🐞天空影视(SP)","type": 3,"api": "csp_Tkys","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"Ekan_spider","name":"☕影视大全(SP)","api":"csp_Ekan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"KanSJ_spider","name":"🐞看视界〔SP〕","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar": "https://ygyzy.github.io/api/jar/ksj.jar;md5;7eacb357cf27abce92ed497367221e5a"},
-{
-      "key": "追剧喵",
-      "name": "🐱追剧喵〔SP〕",
-      "type": 3,
-      "api": "csp_ZJMiao",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-},
+{"key": "追剧喵","name": "🐱追剧喵〔SP〕","type": 3,"api": "csp_ZJMiao","searchable": 1,"quickSearch": 1,"filterable": 1,},
 { "key": "9E03", "name": "🥇9E国语",  "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext":"https://vod.9e03.com/lvdou_api.php/v1.vod","jar":"https://gitea.com/suanjin/tv/raw/branch/master/JAR/9E03.jar;md5;FAEF028F2D1131875242827658E9011D"},
 {"key":"293视频","name":"2️⃣293视频(SP)","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key": "学堂","name": "标榜学堂","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://gitea.com/DS/27/raw/branch/main/%E5%AD%A6%E5%A0%82.json"},  
@@ -107,9 +97,6 @@
       "filterable": 1,
 "jar": "https://ygyzy.github.io/api/jar/custom_spider.jar;md5;d63fe3db21b48e04884c2d5303907bd1"
     },
-
-
-
     {
       "key": "csp_DiDuan",
       "name": "✡低端影视",
@@ -121,7 +108,6 @@
         "jar": 
 "https://ygyzy.github.io/api/jar/custom_spider_0803.jar;md5;7a7e8073d59022b0de11aa135c60b05f"
     },
-
     {
       "key": "Ekan_spider",
       "name": "👀Ekan",
