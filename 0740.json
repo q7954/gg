@@ -26,8 +26,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-        "jar": 
-"https://ygyzy.github.io/api/jar/custom_spider_0803.jar;md5;7a7e8073d59022b0de11aa135c60b05f"},
+},
 { "key": "9E03", "name": "🥇9E国语",  "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext":"https://vod.9e03.com/lvdou_api.php/v1.vod","jar":"https://gitea.com/suanjin/tv/raw/branch/master/JAR/9E03.jar;md5;FAEF028F2D1131875242827658E9011D"},
 {"key":"293视频","name":"🔥293视频(SP)","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key": "学堂","name": "标榜学堂","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://gitea.com/DS/27/raw/branch/main/%E5%AD%A6%E5%A0%82.json"},  
