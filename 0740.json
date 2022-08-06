@@ -104,10 +104,7 @@
       "api": "csp_Ddrk",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-        "jar": 
-"https://ygyzy.github.io/api/jar/custom_spider_0803.jar;md5;7a7e8073d59022b0de11aa135c60b05f"
-    },
+      "filterable": 0},
     {
       "key": "Ekan_spider",
       "name": "👀Ekan",
