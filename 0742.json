@@ -3,7 +3,7 @@
 
 {
 ## spider
-"spider":"https://gitea.com/83225451/Tvbox/raw/branch/main/xxoo805.jar",
+"spider":"https://ygyzy.github.io/api/jar/TVBox.jar",
 # 直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vc3Vhbmppbi90di9yYXcvYnJhbmNoL21hc3Rlci9tYWluL3R2L2JjLnR4dA=="]}]}],
 
