@@ -21,7 +21,9 @@
 {"key":"csp_Tkys","name":"🐞天空影视(SP)","type": 3,"api": "csp_Tkys","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"Ekan_spider","name":"☕影视大全(SP)","api":"csp_Ekan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"KanSJ_spider","name":"🐞看视界〔SP〕","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar": "https://ygyzy.github.io/api/jar/ksj.jar;md5;7eacb357cf27abce92ed497367221e5a"},
-{"key": "追剧喵","name": "🐱追剧喵〔SP〕","type": 3,"api": "csp_ZJMiao","searchable": 1,"quickSearch": 1,"filterable": 1,},
+{"key": "追剧喵","name": "🐱追剧喵〔SP〕","type": 3,"api": "csp_ZJMiao","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": 
+"https://ygyzy.github.io/api/jar/custom_spider_0805.jar;md5;2fa165c9aa72ada6ab74a3dedb58ff6b"
+    },
 {"key": "9E03", "name": "🥇9E国语",  "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext":"https://vod.9e03.com/lvdou_api.php/v1.vod","jar":"https://gitea.com/suanjin/tv/raw/branch/master/JAR/9E03.jar;md5;FAEF028F2D1131875242827658E9011D"},
 {"key":"293视频","name":"2️⃣293视频(SP)","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key": "学堂","name": "标榜学堂","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://gitea.com/DS/27/raw/branch/main/%E5%AD%A6%E5%A0%82.json"},  
