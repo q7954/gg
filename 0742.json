@@ -36,7 +36,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-"jar": "https://ygyzy.github.io/api/jar/kmys.jar;md5;c6c3abb8b47fc5509434a4cca224cd32"
+"jar": "https://ygyzy.github.io/api/jar/custom_spider.jar;md5;d63fe3db21b48e04884c2d5303907bd1"
     },
 {
       "key": "酷猫",
@@ -47,7 +47,7 @@
       "quickSearch": 1,
       "filterable": 1,
         "jar": 
-"https://ygyzy.github.io/api/jar/custom_spider_0803.jar;md5;7a7e8073d59022b0de11aa135c60b05f"
+"https://ygyzy.github.io/api/jar/kmys.jar;md5;c6c3abb8b47fc5509434a4cca224cd32"
     },
 {
       "key": "神马影院",
