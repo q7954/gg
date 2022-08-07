@@ -30,7 +30,7 @@
       "quickSearch": 1,
       "filterable": 1,
         "jar": 
-"https://ygyzy.github.io/api/jar/kmys.jar;md5;c6c3abb8b47fc5509434a4cca224cd32"
+"https://freetvbox.ml/api/jar/custom_spider_0805.jar;md5;2fa165c9aa72ada6ab74a3dedb58ff6b"
     },
 {"key":"KanSJ_spider","name":"🐞看视界〔SP〕","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar": "https://ygyzy.github.io/api/jar/ksj.jar;md5;7eacb357cf27abce92ed497367221e5a"},
 {
@@ -110,7 +110,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-"jar": "https://ygyzy.github.io/api/jar/kmys.jar;md5;c6c3abb8b47fc5509434a4cca224cd32"
+"jar": "https://freetvbox.ml/api/jar/kmys.jar;md5;c6c3abb8b47fc5509434a4cca224cd32"
     },
     {
       "key": "If101",
@@ -130,17 +130,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0},
-    {
-      "key": "Ekan_spider",
-      "name": "👀Ekan",
-      "type": 3,
-      "api": "csp_Ekan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-        "jar": 
-"https://ygyzy.github.io/api/jar/kmys.jar;md5;c6c3abb8b47fc5509434a4cca224cd32"
-    },
     {
       "key": "3EDY",
       "name": "🍉3EDY(EXO)T",
