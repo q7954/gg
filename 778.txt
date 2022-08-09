@@ -1,4 +1,4 @@
-﻿iptvmediaTV#genre#
+﻿iptvmediaTV,#genre#
 XXX: Adult Channel 5,http://iptvmedia.live:8080/live/test-5ebf75/4e17/290567.m3u8
 XXX: Adult Time,http://iptvmedia.live:8080/live/test-5ebf75/4e17/290297.m3u8
 XXX: Alba XXX 4,http://iptvmedia.live:8080/live/test-5ebf75/4e17/8314.m3u8
@@ -98,7 +98,7 @@ XXX: XY Mix HD,http://iptvmedia.live:8080/live/test-5ebf75/4e17/3293.m3u8
 XXX: XY Plus FHD,http://iptvmedia.live:8080/live/test-5ebf75/4e17/3291.m3u8
 XXX: XY Plus FHD +1,http://iptvmedia.live:8080/live/test-5ebf75/4e17/285212.m3u8
 XXX: Шалун TV,http://iptvmedia.live:8080/live/test-5ebf75/4e17/290291.m3u8
-jessicaTV#genre#
+jessicaTV,#genre#
 XXX: a3BIKINI HD,http://jessicatv.site:8080/live/FM10020/4d136785/55196.m3u8
 XXX: Adult Channel 1,http://jessicatv.site:8080/live/FM10020/4d136785/290567.m3u8
 XXX: Alba XXX 4,http://jessicatv.site:8080/live/FM10020/4d136785/8314.m3u8
@@ -200,7 +200,7 @@ XXX: XY Mix HD,http://jessicatv.site:8080/live/FM10020/4d136785/3293.m3u8
 XXX: XY Plus FHD,http://jessicatv.site:8080/live/FM10020/4d136785/3291.m3u8
 XXX: XY Plus FHD +1,http://jessicatv.site:8080/live/FM10020/4d136785/285212.m3u8
 XXX: Шалун TV,http://jessicatv.site:8080/live/FM10020/4d136785/290291.m3u8
-其他#genre#
+其他,#genre#
 Extasy / LeoTV,http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
 Super One HD,http://185.96.176.139:8080/superone/index.m3u8
 O-La-La RU,http://193.33.240.8:8080/o-la-la/index.m3u8
@@ -612,7 +612,7 @@ CCTV8K[1920*1080],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233413/1
 四海钓鱼[1280*720],http://117.148.179.159/PLTV/88888888/224/3221231718/index.m3u8
 四海钓鱼[1280*720],http://117.148.179.160/PLTV/88888888/224/3221231718/index.m3u8
 
-付费频道1_121,#genre#
+付费频道,#genre#
 彩虹e台,mitv://45.92.126.18:9906/62668da3000bd6cc134cc0d079365057
 彩虹電影台,mitv://45.92.126.18:9906/6260e2d0000cf56c172d19afe4aa1d66
 K 頻道,mitv://45.92.126.18:9906/6263c0cd0009e68a085c9c619861891f
