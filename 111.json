@@ -39,7 +39,7 @@
 "searchable":1, 
 "quickSearch":1, 
 "filterable":0, 
-"ext":"https://gitea.com/83225451/Tvbox/raw/branch/main/MaooXB/搜狗影院.json" 
+"ext":"https://gitea.com/83225451/Tvbox/raw/branch/main/MaooXB2/搜狗影院.json" 
 },
     {
       "key":"csp_biubiu_iibb电影网",
@@ -49,7 +49,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext": "https://gitea.com/83225451/Tvbox/raw/branch/main/MaooXB/iibb电影网.json"
+      "ext": "https://gitea.com/83225451/Tvbox/raw/branch/main/MaooXB2/iibb电影网.json"
     },
     {
       "key":"csp_biubiu_胖虎",
@@ -59,7 +59,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext": "https://gitea.com/83225451/Tvbox/raw/branch/main/MaooXB/胖虎.json"
+      "ext": "https://gitea.com/83225451/Tvbox/raw/branch/main/MaooXB2/胖虎.json"
     },
     {
       "key":"csp_biubiu_饭团",
@@ -69,7 +69,17 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext": "https://gitea.com/83225451/Tvbox/raw/branch/main/MaooXB/饭团影视.json"
+      "ext": "https://gitea.com/83225451/Tvbox/raw/branch/main/MaooXB2/饭团影视.json"
+    },
+    {
+      "key":"csp_biubiu_黑洞",
+      "name":"黑洞(XB)",
+      "type":3,
+      "api":"csp_XBiubiu",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext": "https://gitea.com/83225451/Tvbox/raw/branch/main/MaooXB2/黑洞影视.json"
     },
     {
       "key":"M3U8.TVZY",
