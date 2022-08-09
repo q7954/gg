@@ -1,5 +1,6 @@
 ﻿{
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
+## spider
 "spider": "https://raw.githubusercontent.com/benzhen2022/benzhen2022/main/custom_spider.jar?raw=true;md5;c6ed6bc8285f0aca90e7cb3abf7f9caa",
 
 
