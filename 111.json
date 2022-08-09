@@ -52,16 +52,6 @@
       "ext": "https://gitea.com/83225451/Tvbox/raw/branch/main/MaooXB2/hdmoli.json"
     },
     {
-      "key":"csp_biubiu_naifeiyingyuan",
-      "name":"�耐看点播(XB)",
-      "type":3,
-      "api":"csp_XBiubiu",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext": "https://gitea.com/83225451/Tvbox/raw/branch/main/MaooXB2/naifeiyingyuan.json"
-    },
-    {
       "key":"csp_biubiu_饭团",
       "name":"饭团影视(XB)",
       "type":3,
@@ -70,16 +60,6 @@
       "quickSearch":1,
       "filterable":1,
       "ext": "https://gitea.com/83225451/Tvbox/raw/branch/main/MaooXB2/饭团影视.json"
-    },
-    {
-      "key":"csp_biubiu_tv9box",
-      "name":"tv9(XB)",
-      "type":3,
-      "api":"csp_XBiubiu",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext": "https://gitea.com/83225451/Tvbox/raw/branch/main/MaooXB2/tv9box.json"
     },
     {
       "key": "csp_biubiu_yixuewan",
