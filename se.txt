@@ -532,7 +532,7 @@
 {"key": "影库资源2-伦理","name": "影库资源-伦理","type": 1,"api": "https://api.ykapi.net/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "酷伦理","name": "酷伦理-伦理","type": 1,"api": "https://api.kudian70.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "csp_biubiu_4K狗午夜版","name": "4K狗午夜版(XB)️","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://shuyuan.miaogongzi.net/shuyuan/1659584171.json"},
-{"key": "csp_biubiu_香蕉视频","name": "香蕉视频(XB)️","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://shuyuan.miaogongzi.net/shuyuan/1659561867.json"}
+{"key": "csp_biubiu_香蕉视频","name": "香蕉视频(XB)️","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://shuyuan.miaogongzi.net/shuyuan/1659561867.json"},
 {"key":"*鲨鱼资源","name":"*鲨鱼资源","type":1,"api":"https://shayuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":0},
 {"key":"*探探资源","name":"*探探资源","type":1,"api":"https://apittzy.com/api.php/provide/vod/","searchable":1,"quickSearch":0},
 {"key":"*草莓资源","name":"*草莓资源","type":1,"api":"https://caiji.caomeiapi.com/inc/apijson_vod.php","searchable":1,"quickSearch":0},
