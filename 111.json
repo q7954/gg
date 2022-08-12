@@ -278,7 +278,7 @@
       "filterable":0, 
       "ext": "https://gitea.com/83225451/Tvbox/raw/branch/main/MaooXP/片吧影院.json"
        },
-{"key": "剧荒TV（SP）","name": "剧荒TV（SP）","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitea.com/83225451/Tvbox/raw/branch/main/JAR/juhuang.jar;md5;076E2157530714A37606E1599C01A19A},
+{"key": "剧荒TV（SP）","name": "剧荒TV（SP）","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitea.com/83225451/Tvbox/raw/branch/main/JAR/juhuang.jar;md5;076E2157530714A37606E1599C01A19A"},
 {
       "key":"csp_xpath_hyingku",
       "name":"🤗嗨影库(XP)",
