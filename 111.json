@@ -346,13 +346,13 @@
    "key": "csp_xpath_348z",
    "name": "🛰️348电影(XP)",
    "type": 3,
-   "api": "csp_XPathFilter",
+   "api": "csp_XPath",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
    "ext": "https://gitea.com/83225451/Tvbox/raw/branch/main/MaooXP/348z.json"
  },
-//{"key":"csp_n0ys","name":"💥1090影视(SP)","type":3,"api":"csp_N0ys","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
+{"key":"csp_n0ys","name":"💥1090影视(SP)","type":3,"api":"csp_N0ys","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"spider_IKan","name":"💖爱看(SP)","type":3,"api":"csp_IKan","quickSearch":1,"searchable":1,"filterable":1},
 {
       "key": "Ikan",
