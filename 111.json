@@ -85,6 +85,16 @@
       "ext": "https://gitea.com/83225451/Tvbox/raw/branch/main/MaooXB2/yixuewan.json"
     },
     {
+      "key": "csp_biubiu_VF影院",
+      "name": "☃️VF影院(XB)",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://gitea.com/83225451/Tvbox/raw/branch/main/MaooXB2/VF影院.json"
+    },
+    {
       "key":"M3U8.TVZY",
       "name":"Ⓜ️M3U8.TV资源(SP)",
       "type":1,
