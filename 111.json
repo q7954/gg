@@ -75,6 +75,16 @@
       "ext": "https://gitea.com/83225451/Tvbox/raw/branch/main/MaooXB2/饭团影视.json"
     },
     {
+      "key":"csp_biubiu_哔滴",
+      "name":"哔滴(XB)",
+      "type":3,
+      "api":"csp_XBiubiu",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext": "https://gitea.com/83225451/Tvbox/raw/branch/main/MaooXB2/哔滴.json"
+    },
+    {
       "key": "csp_biubiu_yixuewan",
       "name": "☃️伊雪湾(XB)",
       "type": 3,
@@ -445,15 +455,6 @@
       "filterable":0, 
       "ext": "https://gitea.com/83225451/Tvbox/raw/branch/main/MaooXP/dyn.json"
        },
-{"key":"csp_xpath_哔滴",
-      "name":"🤗哔滴(XP)",
-      "type":3,
-      "api":"csp_XPath",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":0, 
-      "ext": "https://gitea.com/83225451/Tvbox/raw/branch/main/MaooXP/哔滴.json"
-       },
 {"key":"csp_xpath_Grab4K",
       "name":"🤗Grab4K(XP)",
       "type":3,
@@ -466,7 +467,7 @@
 {"key":"csp_xpath_AB影院",
       "name":"🤗AB影院(XP)",
       "type":3,
-      "api":"csp_XPath",
+      "api":"csp_XPathFilter",
       "searchable":1,
       "quickSearch":1,
       "filterable":0, 
