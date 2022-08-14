@@ -25,7 +25,7 @@
 {"key":"csp_appysv2_冷视TV","name":"冷视TV(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://len.tv/api.php/v1.vod"},
 {"key":"csp_appysv2_铭轩影视","name":"铭轩影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://lz0716.com/api.php/v1.vod"},
 {"key":"csp_appysv2_枇杷影院","name":"枇杷影院(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.pipamovie.com/api.php/v1.vod"},
-    {
+//{
       "key":"csp_xpath_chinady",
       "name":"中国电影(XP)",
       "type":3,
@@ -64,6 +64,16 @@
       "quickSearch":1,
       "filterable":1,
       "ext": "https://gitea.com/83225451/Tvbox/raw/branch/main/MaooXB2/hdmoli.json"
+    },
+    {
+      "key":"csp_biubiu_hdmoli",
+      "name":"VF影院(XB)",
+      "type":3,
+      "api":"csp_XBiubiu",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext": "https://gitea.com/83225451/Tvbox/raw/branch/main/MaooXB2/VF影院.json"
     },
     {
       "key":"csp_biubiu_饭团",
@@ -147,7 +157,7 @@
 "https://ygyzy.github.io/api/jar/kmys.jar;md5;c6c3abb8b47fc5509434a4cca224cd32"
     },
 {"key": "9E03", "name": "🥇9E国语",  "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext":"https://vod.9e03.com/lvdou_api.php/v1.vod","jar":"https://gitea.com/suanjin/tv/raw/branch/master/JAR/9E03.jar;md5;FAEF028F2D1131875242827658E9011D"},
-{
+//{
       "key": "293视频",
       "name": "🛫293视频〔SP〕",
       "type": 3,
@@ -263,9 +273,9 @@
       "name":"👬两个BT(XP)",
       "type":3,
       "api":"csp_XPath",
-      "searchable":0,
-      "quickSearch":0,
-      "filterable":0,
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
       "ext":"https://ygyzy.github.io/api/Xpath/bttwoo.json",
 "jar": "https://ygyzy.github.io/api/jar/kmys.jar;md5;c6c3abb8b47fc5509434a4cca224cd32"
 },
@@ -281,6 +291,42 @@
       "quickSearch":1,
       "filterable":0, 
       "ext": "https://gitea.com/83225451/Tvbox/raw/branch/main/MaooXP/片吧影院.json"
+       },
+     {"key":"csp_xpath_dyn",
+      "name":"🤗电影牛(XP)",
+      "type":3,
+      "api":"csp_XPath",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0, 
+      "ext": "https://gitea.com/83225451/Tvbox/raw/branch/main/MaooXP/dyn.json"
+       },
+{"key":"csp_xpath_哔滴",
+      "name":"🤗哔滴(XP)",
+      "type":3,
+      "api":"csp_XPath",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0, 
+      "ext": "https://gitea.com/83225451/Tvbox/raw/branch/main/MaooXP/哔滴.json"
+       },
+{"key":"csp_xpath_Grab4K",
+      "name":"🤗Grab4K(XP)",
+      "type":3,
+      "api":"csp_XPath",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0, 
+      "ext": "https://gitea.com/83225451/Tvbox/raw/branch/main/MaooXP/Grab4K.json"
+       },
+{"key":"csp_xpath_AB影院",
+      "name":"🤗AB影院(XP)",
+      "type":3,
+      "api":"csp_XPath",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0, 
+      "ext": "https://gitea.com/83225451/Tvbox/raw/branch/main/MaooXP/AB影院.json"
        },
 {"key": "剧荒TV（SP）","name": "剧荒TV（SP）","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitea.com/83225451/Tvbox/raw/branch/main/JAR/juhuang.jar;md5;076E2157530714A37606E1599C01A19A"},
 {
