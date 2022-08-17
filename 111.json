@@ -1158,6 +1158,19 @@
 {"name":"油果","type":1,"url":"http://json.youguo520.top/fufeng/?url=","ext":{"flag":["qiyi","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
 {"name": "新江湖","type": 1,"url": "http://150.230.216.174/tvjx.php?url=","ext": {"flag": ["qq", "qiyi", "mgtv", "youku", "letv", "sohu", "xigua", "1905", "优播线路", "腾播线路"],"header": {"User-Agent": "Dart/2.14 (dart:io)"}}},
 
+{"name": "m1907.cn","type": 0,"url": "https://z1.m1907.cn/?jx="},
+{"name": "Parwix解析系统","type": 0,"url": "https://jx.bozrc.com:4433/player/?url="},
+{"name": "刚刚影视","type": 0,"url": "https://vip.fuqizhishi.com/?v="},
+{"name": "OK解析","type": 0,"url": "https://okjx.cc/?url="}, 
+{"name": "虾米解析","type": 0,"url": "https://jx.xmflv.com/?url="}, 
+{"name": "ckplayer无广告解析","type": 0,"url": "https://www.ckplayer.vip/jiexi/?url="},
+{"name": "云解析播放器","type": 0,"url": "https://jx.aidouer.net/?url="},
+{"name": "BL解析","type": 0,"url": "https://svip.bljiex.cc/?v="},
+{"name": "M3U8解析","type": 0,"url": "https://jx.m3u8.tv/jiexi/?url="},
+{"name": "全网视频解析","type": 0,"url": "https://vip.laobandq.com/jiexi.php?url="},
+{"name": "盘古云解析","type": 0,"url": "https://go.yh0523.cn/y.cy?url="},
+{"name": "夜幕解析","type": 0,"url": "https://www.yemu.xyz/?url="},
+{"name": "铭人解析","type": 0,"url": "https://parse.123mingren.com/?url="},
 
    {
      "name":"leduo",
