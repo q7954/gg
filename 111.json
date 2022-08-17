@@ -1152,9 +1152,11 @@
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
 # type1 聚合.并发.轮询
-//{"name":"293①","type":1,"url":"http://47.98.234.2:7768/api.php?url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
+{"name":"①","type":1,"url":"https://jx.m3u8.tv/jiexi/?url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
 {"name":"油果","type":1,"url":"http://json.youguo520.top/fufeng/?url=","ext":{"flag":["qiyi","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
 {"name": "新江湖","type": 1,"url": "http://150.230.216.174/tvjx.php?url=","ext": {"flag": ["qq", "qiyi", "mgtv", "youku", "letv", "sohu", "xigua", "1905", "优播线路", "腾播线路"],"header": {"User-Agent": "Dart/2.14 (dart:io)"}}},
+{"key":"200121","name":"🐝200121","type":1,"api":"https://www.200121.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+
  {
  "name": "m1907.cn",
  "type": 0,
